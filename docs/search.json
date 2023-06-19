@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "ace alba",
     "section": "",
-    "text": "#install.packages(“usethis”) library(usethis) 1```"
+    "text": "#install.packages(\"usethis\")\nlibrary(usethis)"
   },
   {
     "objectID": "about.html",
