@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "aceofspades77.github.io"
+  title: "ace alba"
   navbar:
     left:
       - href: index.qmd
