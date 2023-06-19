@@ -5,6 +5,6 @@ title: "aceofspades77.github.io"
 
 ```{r}
 #install.packages("usethis")
-usethis::use_git()
+library(usethis)
 
 ```
