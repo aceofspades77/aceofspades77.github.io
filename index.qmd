@@ -1,8 +1,29 @@
 ---
-title: "ace alba"
+title: "Ace Alba"
+
+image: (~/Documents/GitHub/aceofspades77.github.io/images, profile picture.png)
+
+about: 
+  template: trestles
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
 ---
 
-```{r}
-#install.packages("usethis")
-library(usethis)
-```
+Ace Alba is an undergrauate scholar at the University of California, Santa Barbara. He majors in Environmental Studies (B.A) with an emphasis on Public Health.
+
+# Background
+
+# Education
+
+# Projects
+
+# Works
+
+# Contacts
