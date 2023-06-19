@@ -1,8 +1,6 @@
 ---
-title: "Ace Alba"
-
-image: (~/Documents/GitHub/aceofspades77.github.io/images, profile picture.png)
-
+title: "ace alba"
+image: ("Documents/GitHub/aceofspades77.github.io/images")
 about: 
   template: trestles
   image-width: 10em
