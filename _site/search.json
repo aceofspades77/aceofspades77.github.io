@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "aceofspades77.github.io",
+    "section": "",
+    "text": "#install.packages(\"usethis\")\nusethis::use_git()\n\n✔ Setting active project to\n'/Users/ace/Documents/GitHub/aceofspades77.github.io'"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
